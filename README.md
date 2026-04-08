@@ -32,7 +32,3 @@ A map-based mobile application built with Dart.
 [![GitHub](https://img.shields.io/badge/GitHub-FaroukAshraf991-181717?style=flat&logo=github)](https://github.com/FaroukAshraf991)
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FaroukAshraf991&show_icons=true&hide_border=true&theme=default" alt="Farouk's GitHub stats" />
-</p>
