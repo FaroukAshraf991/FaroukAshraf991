@@ -31,10 +31,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=FaroukAshraf991&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000" width="49%" alt="GitHub stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FaroukAshraf991&theme=tokyonight&hide_border=true&background=00000000" width="49%" alt="GitHub streak stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaroukAshraf991&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="49%" alt="Top languages" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FaroukAshraf991&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub streak stats" />
 
 </div>
 
@@ -42,14 +39,7 @@
 
 ### 🚀 Featured project
 
-<div align="center">
-
-<a href="https://github.com/FaroukAshraf991/mapy">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FaroukAshraf991&repo=mapy&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Mapy repo card" />
-</a>
-
-</div>
-
+#### [Mapy](https://github.com/FaroukAshraf991/mapy)
 A map-based mobile application built with Dart.
 
 ---
