@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=200&section=header&text=Farouk%20Ashraf&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Mobile%20%26%20Frontend%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="header banner" />
+<img src="assets/banner.svg" width="100%" alt="header banner" />
 
 <a href="https://github.com/FaroukAshraf991">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=560&lines=Building+smooth+cross-platform+apps+%F0%9F%93%B1;Crafting+clean+web+interfaces+%F0%9F%92%BB;From+pixel+to+API+%E2%9A%A1" alt="Typing SVG" />
