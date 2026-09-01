@@ -38,7 +38,7 @@ React Native / Expo and Next.js on Supabase · also Flutter · deep Arabic / RTL
 
 ### 🚀 Featured projects
 
-Live demos for all four are on my portfolio → **https://faroukashraf991.github.io/portfolio**
+Live demos are on my portfolio → **https://faroukashraf991.github.io/portfolio**
 
 #### RollSquad — real-time coordination for friend groups driving together
 Live group map, push-to-talk voice, Arabic-first with full RTL. In external TestFlight testing.
@@ -55,6 +55,11 @@ Multi-tenant with subscription tiers and an admin operator portal.
 #### Workshop Manager — service history & printable receipts for Egyptian auto workshops
 Multi-tenant, bilingual AR / EN, with PDF generation.
 `Next.js` · `Supabase` · `RLS` · `PDF generation` — [live demo ↗](https://faroukashraf991.github.io/portfolio)
+
+**Also built**
+
+- **Glimmer** — mobile mental-wellbeing companion: breathing exercises, mood logging and progress tracking, crisis resources reachable without login. `React Native` · `Expo` · `Supabase` · `Groq/Llama 3.3`
+- **Sip with Nagdi** — bilingual EN/AR e-commerce storefront for specialty coffee equipment, with a full admin dashboard for products, discounts and orders. `Next.js` · `React` · `Supabase` · `Zustand`
 
 ---
 
